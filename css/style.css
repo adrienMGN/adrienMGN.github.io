@@ -1,0 +1,52 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+header h1 {
+  color: #343a40;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #343a40;
+}
+
+section {
+  padding: 20px;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+    
+  
