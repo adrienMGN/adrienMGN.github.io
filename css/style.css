@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background-color: #f8f9fa;
+  background-color: #48a3ff;
   padding: 20px;
 }
 
@@ -40,7 +40,7 @@ section {
 }
 
 footer {
-  background-color: #f8f9fa;
+  background-color: #e6e6e6;
   text-align: center;
   padding: 10px;
   position: fixed;
