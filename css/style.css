@@ -49,6 +49,7 @@ html {
     max-width: 100%;
     height: auto;
   }
+
   #terminal {
     display: none;
   }
@@ -60,11 +61,12 @@ html {
     height: auto;
   }
 }
+
 @media only screen and (max-width: 56.25em) {
   #terminal {
     display: none;
   }
-  
+
 }
 
 @media only screen and (max-width: 37.5em) {
@@ -72,6 +74,7 @@ html {
     max-width: 6rem;
     height: auto;
   }
+
   #terminal {
     display: none;
   }
@@ -97,6 +100,7 @@ html {
     left: 0;
   }
 }
+
 body {
   box-sizing: border-box;
   position: relative;
@@ -804,7 +808,7 @@ textarea {
   border-radius: 50px;
   overflow: hidden;
   margin-right: 1.5rem;
-  background: #0062b9;
+  background: #866cfb;
 }
 
 @media only screen and (max-width: 56.25em) {
